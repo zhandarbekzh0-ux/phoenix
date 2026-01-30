@@ -8,4 +8,4 @@ print(234) #Print integers
 print("Hello" + " " + "World") #String concatenation
 
 name = "Zhandarbek"
-print("My name is " + name)
+print("My name is " + name) #Using variables
